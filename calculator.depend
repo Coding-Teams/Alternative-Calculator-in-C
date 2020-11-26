@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606400537 source:c:\users\administrator\desktop\bin2hex - hex2bin converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
